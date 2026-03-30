@@ -7,9 +7,9 @@ int main(){
 
     // Perulangan dengan FOR
     cout<<"PERULANGAN FOR"<<endl;
-    for(int i=1; i<=4; i++){
-        cout<<"Teknologi Informasi UMY"<<endl;
-    }
+   for (int i = 1; i <= 4; i++) {
+    cout << "Teknologi Informasi UMY" << endl;
+}
     cout<<endl;
 
     // untuk mendapatkan urutan angka acak yang berbeda
